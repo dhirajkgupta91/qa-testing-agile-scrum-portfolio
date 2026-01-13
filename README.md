@@ -17,7 +17,7 @@ In addition to QA, I have actively contributed in Agile/Scrum teams by:
 - Tracking sprint progress, risks, and blockers
 - Coordinating with Product Owners, Developers, and QA teams
 - Preparing sprint metrics and status dashboards
-- I am a certifird scrum master.
+- Certifird scrum master.
 
 This repository contains sample QA testing artifacts and Agile/Scrum
 documents created for practical learning and professional demonstration.
